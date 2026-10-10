@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/
+uploads/
+*.db
+.env
+
+# Assignment brief and private planning notes
+*.docx
+BUILD_PLAN*.md
