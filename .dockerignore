@@ -1,0 +1,9 @@
+.venv
+.git
+data
+tests
+samples
+__pycache__
+.pytest_cache
+*.docx
+BUILD_PLAN*.md
